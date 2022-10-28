@@ -1,0 +1,6 @@
+"0",""
+"0","## step2 "
+"0","p_radius_mean <- tidy_model_summary %>%"
+"0","                        filter(term == ""radius_mean"") %>%"
+"0","                        select(p.value) "
+"0","print(p_radius_mean)"

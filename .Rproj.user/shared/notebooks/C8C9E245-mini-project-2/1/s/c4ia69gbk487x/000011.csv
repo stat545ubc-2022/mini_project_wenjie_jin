@@ -1,0 +1,2 @@
+"0","untidy_cancer_sample = cancer_sample %>% pivot_wider(names_from = diagnosis, values_from = radius_mean)"
+"0","untidy_cancer_sample"

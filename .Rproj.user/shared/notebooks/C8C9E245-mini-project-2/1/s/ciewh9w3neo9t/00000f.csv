@@ -1,0 +1,2 @@
+"0","write_csv(as.data.frame(summary(cancer_sample)), here::here(""output"", ""3.1.csv""))"
+"0",""

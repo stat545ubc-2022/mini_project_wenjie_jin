@@ -1,0 +1,2 @@
+"0","tidy_cancer_sample = untidy_cancer_sample %>% pivot_longer(cols = c(M, B), names_to  = 'diagnosis', values_to = 'radius_mean', values_drop_na = TRUE) %>% select(ID, diagnosis, radius_mean, everything())"
+"0","tidy_cancer_sample"

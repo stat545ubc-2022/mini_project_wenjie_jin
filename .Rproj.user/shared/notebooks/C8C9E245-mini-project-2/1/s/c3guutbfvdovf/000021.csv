@@ -1,0 +1,5 @@
+"0","summarized_cancer_sample = cancer_sample %>%"
+"0","  select(-c(ID)) %>% "
+"0","  group_by(diagnosis) %>% "
+"0","  summarize(across(where(is.numeric), mean))"
+"0","summarized_cancer_sample"

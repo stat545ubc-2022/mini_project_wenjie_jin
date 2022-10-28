@@ -1,0 +1,199 @@
+Var1,Var2,Freq
+,      ID,Min.   :     8670  
+,      ID,1st Qu.:   869218  
+,      ID,Median :   906024  
+,      ID,Mean   : 30371831  
+,      ID,3rd Qu.:  8813129  
+,      ID,Max.   :911320502  
+, diagnosis,Length:569        
+, diagnosis,Class :character  
+, diagnosis,Mode  :character  
+, diagnosis,NA
+, diagnosis,NA
+, diagnosis,NA
+, radius_mean,Min.   : 6.981  
+, radius_mean,1st Qu.:11.700  
+, radius_mean,Median :13.370  
+, radius_mean,Mean   :14.127  
+, radius_mean,3rd Qu.:15.780  
+, radius_mean,Max.   :28.110  
+, texture_mean,Min.   : 9.71  
+, texture_mean,1st Qu.:16.17  
+, texture_mean,Median :18.84  
+, texture_mean,Mean   :19.29  
+, texture_mean,3rd Qu.:21.80  
+, texture_mean,Max.   :39.28  
+,perimeter_mean,Min.   : 43.79  
+,perimeter_mean,1st Qu.: 75.17  
+,perimeter_mean,Median : 86.24  
+,perimeter_mean,Mean   : 91.97  
+,perimeter_mean,3rd Qu.:104.10  
+,perimeter_mean,Max.   :188.50  
+,  area_mean,Min.   : 143.5  
+,  area_mean,1st Qu.: 420.3  
+,  area_mean,Median : 551.1  
+,  area_mean,Mean   : 654.9  
+,  area_mean,3rd Qu.: 782.7  
+,  area_mean,Max.   :2501.0  
+,smoothness_mean,Min.   :0.05263  
+,smoothness_mean,1st Qu.:0.08637  
+,smoothness_mean,Median :0.09587  
+,smoothness_mean,Mean   :0.09636  
+,smoothness_mean,3rd Qu.:0.10530  
+,smoothness_mean,Max.   :0.16340  
+,compactness_mean,Min.   :0.01938  
+,compactness_mean,1st Qu.:0.06492  
+,compactness_mean,Median :0.09263  
+,compactness_mean,Mean   :0.10434  
+,compactness_mean,3rd Qu.:0.13040  
+,compactness_mean,Max.   :0.34540  
+,concavity_mean,Min.   :0.00000  
+,concavity_mean,1st Qu.:0.02956  
+,concavity_mean,Median :0.06154  
+,concavity_mean,Mean   :0.08880  
+,concavity_mean,3rd Qu.:0.13070  
+,concavity_mean,Max.   :0.42680  
+,concave_points_mean,Min.   :0.00000  
+,concave_points_mean,1st Qu.:0.02031  
+,concave_points_mean,Median :0.03350  
+,concave_points_mean,Mean   :0.04892  
+,concave_points_mean,3rd Qu.:0.07400  
+,concave_points_mean,Max.   :0.20120  
+,symmetry_mean,Min.   :0.1060  
+,symmetry_mean,1st Qu.:0.1619  
+,symmetry_mean,Median :0.1792  
+,symmetry_mean,Mean   :0.1812  
+,symmetry_mean,3rd Qu.:0.1957  
+,symmetry_mean,Max.   :0.3040  
+,fractal_dimension_mean,Min.   :0.04996  
+,fractal_dimension_mean,1st Qu.:0.05770  
+,fractal_dimension_mean,Median :0.06154  
+,fractal_dimension_mean,Mean   :0.06280  
+,fractal_dimension_mean,3rd Qu.:0.06612  
+,fractal_dimension_mean,Max.   :0.09744  
+,  radius_se,Min.   :0.1115  
+,  radius_se,1st Qu.:0.2324  
+,  radius_se,Median :0.3242  
+,  radius_se,Mean   :0.4052  
+,  radius_se,3rd Qu.:0.4789  
+,  radius_se,Max.   :2.8730  
+,  texture_se,Min.   :0.3602  
+,  texture_se,1st Qu.:0.8339  
+,  texture_se,Median :1.1080  
+,  texture_se,Mean   :1.2169  
+,  texture_se,3rd Qu.:1.4740  
+,  texture_se,Max.   :4.8850  
+, perimeter_se,Min.   : 0.757  
+, perimeter_se,1st Qu.: 1.606  
+, perimeter_se,Median : 2.287  
+, perimeter_se,Mean   : 2.866  
+, perimeter_se,3rd Qu.: 3.357  
+, perimeter_se,Max.   :21.980  
+,   area_se,Min.   :  6.802  
+,   area_se,1st Qu.: 17.850  
+,   area_se,Median : 24.530  
+,   area_se,Mean   : 40.337  
+,   area_se,3rd Qu.: 45.190  
+,   area_se,Max.   :542.200  
+,smoothness_se,Min.   :0.001713  
+,smoothness_se,1st Qu.:0.005169  
+,smoothness_se,Median :0.006380  
+,smoothness_se,Mean   :0.007041  
+,smoothness_se,3rd Qu.:0.008146  
+,smoothness_se,Max.   :0.031130  
+,compactness_se,Min.   :0.002252  
+,compactness_se,1st Qu.:0.013080  
+,compactness_se,Median :0.020450  
+,compactness_se,Mean   :0.025478  
+,compactness_se,3rd Qu.:0.032450  
+,compactness_se,Max.   :0.135400  
+, concavity_se,Min.   :0.00000  
+, concavity_se,1st Qu.:0.01509  
+, concavity_se,Median :0.02589  
+, concavity_se,Mean   :0.03189  
+, concavity_se,3rd Qu.:0.04205  
+, concavity_se,Max.   :0.39600  
+,concave_points_se,Min.   :0.000000  
+,concave_points_se,1st Qu.:0.007638  
+,concave_points_se,Median :0.010930  
+,concave_points_se,Mean   :0.011796  
+,concave_points_se,3rd Qu.:0.014710  
+,concave_points_se,Max.   :0.052790  
+, symmetry_se,Min.   :0.007882  
+, symmetry_se,1st Qu.:0.015160  
+, symmetry_se,Median :0.018730  
+, symmetry_se,Mean   :0.020542  
+, symmetry_se,3rd Qu.:0.023480  
+, symmetry_se,Max.   :0.078950  
+,fractal_dimension_se,Min.   :0.0008948  
+,fractal_dimension_se,1st Qu.:0.0022480  
+,fractal_dimension_se,Median :0.0031870  
+,fractal_dimension_se,Mean   :0.0037949  
+,fractal_dimension_se,3rd Qu.:0.0045580  
+,fractal_dimension_se,Max.   :0.0298400  
+, radius_worst,Min.   : 7.93  
+, radius_worst,1st Qu.:13.01  
+, radius_worst,Median :14.97  
+, radius_worst,Mean   :16.27  
+, radius_worst,3rd Qu.:18.79  
+, radius_worst,Max.   :36.04  
+,texture_worst,Min.   :12.02  
+,texture_worst,1st Qu.:21.08  
+,texture_worst,Median :25.41  
+,texture_worst,Mean   :25.68  
+,texture_worst,3rd Qu.:29.72  
+,texture_worst,Max.   :49.54  
+,perimeter_worst,Min.   : 50.41  
+,perimeter_worst,1st Qu.: 84.11  
+,perimeter_worst,Median : 97.66  
+,perimeter_worst,Mean   :107.26  
+,perimeter_worst,3rd Qu.:125.40  
+,perimeter_worst,Max.   :251.20  
+,  area_worst,Min.   : 185.2  
+,  area_worst,1st Qu.: 515.3  
+,  area_worst,Median : 686.5  
+,  area_worst,Mean   : 880.6  
+,  area_worst,3rd Qu.:1084.0  
+,  area_worst,Max.   :4254.0  
+,smoothness_worst,Min.   :0.07117  
+,smoothness_worst,1st Qu.:0.11660  
+,smoothness_worst,Median :0.13130  
+,smoothness_worst,Mean   :0.13237  
+,smoothness_worst,3rd Qu.:0.14600  
+,smoothness_worst,Max.   :0.22260  
+,compactness_worst,Min.   :0.02729  
+,compactness_worst,1st Qu.:0.14720  
+,compactness_worst,Median :0.21190  
+,compactness_worst,Mean   :0.25427  
+,compactness_worst,3rd Qu.:0.33910  
+,compactness_worst,Max.   :1.05800  
+,concavity_worst,Min.   :0.0000  
+,concavity_worst,1st Qu.:0.1145  
+,concavity_worst,Median :0.2267  
+,concavity_worst,Mean   :0.2722  
+,concavity_worst,3rd Qu.:0.3829  
+,concavity_worst,Max.   :1.2520  
+,concave_points_worst,Min.   :0.00000  
+,concave_points_worst,1st Qu.:0.06493  
+,concave_points_worst,Median :0.09993  
+,concave_points_worst,Mean   :0.11461  
+,concave_points_worst,3rd Qu.:0.16140  
+,concave_points_worst,Max.   :0.29100  
+,symmetry_worst,Min.   :0.1565  
+,symmetry_worst,1st Qu.:0.2504  
+,symmetry_worst,Median :0.2822  
+,symmetry_worst,Mean   :0.2901  
+,symmetry_worst,3rd Qu.:0.3179  
+,symmetry_worst,Max.   :0.6638  
+,fractal_dimension_worst,Min.   :0.05504  
+,fractal_dimension_worst,1st Qu.:0.07146  
+,fractal_dimension_worst,Median :0.08004  
+,fractal_dimension_worst,Mean   :0.08395  
+,fractal_dimension_worst,3rd Qu.:0.09208  
+,fractal_dimension_worst,Max.   :0.20750  
+,   radius_mean_level,large       :  5  
+,   radius_mean_level,large_medium: 40  
+,   radius_mean_level,medium      :129  
+,   radius_mean_level,small       : 47  
+,   radius_mean_level,small_medium:348  
+,   radius_mean_level,NA

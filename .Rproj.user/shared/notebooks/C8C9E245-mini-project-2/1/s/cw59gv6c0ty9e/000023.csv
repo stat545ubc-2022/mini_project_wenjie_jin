@@ -1,0 +1,3 @@
+"0","library(broom)"
+"0","tidy_model_summary <- tidy(glm_mean)"
+"0","print(tidy_model_summary)"

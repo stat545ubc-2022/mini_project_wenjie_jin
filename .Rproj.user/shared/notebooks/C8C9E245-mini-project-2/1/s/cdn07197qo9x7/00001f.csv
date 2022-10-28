@@ -1,0 +1,3 @@
+"0","ggplot(cancer_sample, aes(x=fct_collapse(radius_mean_level, large = c(""medium"", ""large_medium"", ""large"")), ..count..)) +"
+"0","    geom_bar(aes(fill=diagnosis)) + labs(x = ""radius_mean_level"")"
+"0",""
